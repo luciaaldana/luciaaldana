@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/luciaaldanacastillo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### I have created some gits, [_you can see them all here:_](https://gist.github.com/luciaaldana)
+### I have created some gists, [_you can see them all here:_](https://gist.github.com/luciaaldana)
 
 - react-redux y toolkit, 
 
