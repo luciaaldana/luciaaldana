@@ -6,9 +6,13 @@
 
 - react-redux y toolkit, 
 
-- private and public routes, 
+- private and public routes,
+
+- Absolute path in Vite project React TS (alias), 
 
 - i18next (react),
+
+- Mapbox GL JS WithReact,
 
 - some styles
 
