@@ -24,10 +24,14 @@ I like to learn, I am self-taught. The solutions that are posted for different p
 
 ## `👾 Alias`
 
-| Alias | Command |Description |
-|--|--|--|
-|gbs|or k in $(git branch &#124; sed s/^..//); do echo -e $(git log --color=always -1 --pretty=format:"%Cgreen%ci %Cblue%cr%Creset" $k --)\\t"$k";done &#124; sort | list of branches ordered towards the most used |
-|dnp|'rm -rf ./node_modules && rm -f package-lock.json && npm i'|Delete node modules and package.lock and install (npm)|
+| Alias | Command                                                     | Description                                            |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------------ |
+| gbs   | (\*)                                                        | list of branches ordered towards the most used         |
+| dnp   | 'rm -rf ./node_modules && rm -f package-lock.json && npm i' | Delete node modules and package.lock and install (npm) |
+
+(\*) command gbs : 
+```for k in $(git branch| sed s/^..//); do echo -e $(git log --color=always -1 --pretty=format:"%Cgreen%ci %Cblue%cr%Creset" $k --)\\t"$k";done \\ | sort```
+
 ## `🔥 Shortcut`
 
 Print in console with detail of the element (file, line number...):
