@@ -12,16 +12,41 @@ I like to learn, I am self-taught. The solutions that are posted for different p
 
 ### I have created some gists, [_you can see them all here:_](https://gist.github.com/luciaaldana)
 
-- [X] Store: React-redux y Toolkit, 
-
-- [X] Private and public routes (React router dom v6),
-
-- [X] Absolute path in Vite project React TS (alias), 
-
-- [X] i18next (react),
-
-- [X] Mapbox GL JS WithReact,
-
-- [X] some styles
+| Topic | Detail | Link |
+|--|--|--|
+| Store | Create store with React-Rudux and Toolkit | [🔗](https://gist.github.com/luciaaldana/d5445118263020994c33be1578144208)
+| Routes | Create Private and public routes with React router dom v6 | [🔗](https://gist.github.com/luciaaldana/383b73e3546773dbb0a4ac762fff0660)
+| Alias | Create absolute path in Vite project React TS (alias) | [🔗](https://gist.github.com/luciaaldana/7343c77b56e02a1ab7ed2903c01a843d)
+| Internationalization | Translations with I18n | [🔗](https://gist.github.com/luciaaldana/540d60b401bea06672f03ea01db80aab)
+| Map | Using map and creating markers with Mapbox GL JS With React | [🔗](https://gist.github.com/luciaaldana/9796f682a692963e4f68791d7240883d)
 
 ✨ I hope it helps you.
+
+## `🔥 Shortcut`
+
+Print in console with detail of the element (file, line number...):
+
+```javascript
+{
+    "key": "ctrl+shift+l",
+    "command": "editor.action.insertSnippet",
+    "when": "editorTextFocus",
+    "args": {
+      "snippet": "console.log('🔥 ${RELATIVE_FILEPATH} > line: ${TM_LINE_NUMBER} > ${TM_SELECTED_TEXT}:$2', ${TM_SELECTED_TEXT}$1);"
+    },
+  },
+```
+
+Print in console a javascript value to a JSON string: 
+
+```javascript
+    {
+        "key": "ctrl+j",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus",
+        "args": {
+          "snippet": "console.log(JSON.stringify({ ${TM_SELECTED_TEXT} }, null, 2));"
+        },
+      },
+```
+
