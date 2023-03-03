@@ -6,7 +6,7 @@ I am currently working at Aconcagua Software Spain, as a `Frontend Developer wit
 
 <a href="https://www.linkedin.com/in/luciaaldanacastillo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I like to learn, I am self-taught. The solutions that are posted for different problems or questions about how to solve something help me a lot, so I leave some answers on Stackoverflow ([you can find my profile here](https://stackoverflow.com/users/19827435/lucia-aldana))) and I also create some Gists with some processes hoping to give back some of that help.
+I like to learn, I am self-taught. The solutions that are posted for different problems or questions about how to solve something help me a lot, so I leave some answers on Stackoverflow ([you can find my profile here](https://stackoverflow.com/users/19827435/lucia-aldana)) and I also create some Gists with some processes hoping to give back some of that help.
 
 ## `🌟 Gists`
 
