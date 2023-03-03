@@ -56,3 +56,15 @@ Print in console a javascript value to a JSON string:
       },
 ```
 
+## `🤖 My most used commands`
+
+| Command | SHORCUTS OH MY ZSH | Description |
+|--|--|--|
+| `git add .` | `ga .` | we move the modified files from our working directory to the ready state.|
+|`git commit -a -m 'description...'` | `gcam 'description...' `| We save the changes you have in the staging area. |
+|`git push` | `gp`| We push changes from a local repository to a remote repository.|
+|`git pull` | `gl`| We download content from a remote repository by updating the local repository |
+|`git checkout name-branch` | `gco name-branch`| We move to the branch 'name-branch' that is already created |
+|`git checkout -b name-new-branch` | `gco -b name-new-branch`| We move to the 'name-branch' branch that we are creating |
+
+If you like these `SHORCUTS OH MY ZSH`, I leave the complete list [here](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index).
