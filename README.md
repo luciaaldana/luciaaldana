@@ -28,13 +28,15 @@ I like to learn, I am self-taught. The solutions that are posted for different p
 
 ## `🤖 My most used commands`
 
-| Command | SHORCUTS OH MY ZSH |
-|--|--|
-| `git add .` | `ga .` |
-|`git commit -a -m 'description...'` | `gcam 'description...' `| 
-|`git push` | `gp`| 
-|`git pull` | `gl`| 
-|`git checkout name-branch` | `gco name-branch`| 
-|`git checkout -b name-new-branch` | `gco -b name-new-branch`|
+| Command | SHORCUTS OH MY ZSH | Description |
+|--|--|--|
+| `git add .` | `ga .` | we move the modified files from our working directory to the ready state.|
+|`git commit -a -m 'description...'` | `gcam 'description...' `| We save the changes you have in the staging area. |
+|`git push` | `gp`| We push changes from a local repository to a remote repository.|
+|`git pull` | `gl`| We download content from a remote repository by updating the local repository |
+|`git checkout name-branch` | `gco name-branch`| We move to the branch 'name-branch' that is already created |
+|`git checkout -b name-new-branch` | `gco -b name-new-branch`| We move to the 'name-branch' branch that we are creating |
+
+(👽) It's always handy to have on hand:  `rm -rf ./node_modules && rm -f package-lock.json && npm i` 
 
 If you like these `SHORCUTS OH MY ZSH`, I leave the complete list [here](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index).
