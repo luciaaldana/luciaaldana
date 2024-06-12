@@ -2,6 +2,11 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lucia%20Aldana&fontSize=40&desc=Frontend%20Developer&descSize=20&theme=cobalt"/>
 </p>
 <p align='center'>
+   <a href='https://www.linkedin.com/in/luciaaldanacastillo' target='_blank'>
+      <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white' />
+   </a>
+</p>
+<p align='center'>
   ¡Hola! Soy una desarrolladora frontend apasionada por crear experiencias web modernas, intuitivas y accesibles. 
 </p>
 <p align='center'>
