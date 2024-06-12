@@ -64,6 +64,11 @@
 <p align='center'>
   Te invito a visitar el blog Huasi, donde comparto artículos, tutoriales y las últimas novedades del mundo del desarrollo frontend. No te pierdas la oportunidad de aprender algo nuevo y mejorar tus habilidades.
 </p>
-
+<p align='center'>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&theme=cobalt"/>
+</p>
+<p align='center'>
+  <img src="https://visitcount.itsvg.in/api?id=luciaaldana&label=%20&color=12&icon=2&pretty=false" />
+</p>
 
 
