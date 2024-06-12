@@ -52,7 +52,7 @@
    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=48&section=header&text=Últimos%20Artículos&fontSize=24&theme=cobalt"/>
 </p>
 <p align='center'>
-  <a href="#">
+  <a href="https://www.huasi.dev/">
    <img src="https://img.shields.io/badge/Visitar-Huasi%20blog%20-blue"/>
   <a/>
 </p>
