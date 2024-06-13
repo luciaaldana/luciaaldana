@@ -5,6 +5,10 @@
    <a href='https://www.linkedin.com/in/luciaaldanacastillo' target='_blank'>
       <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white' />
    </a>
+   <a href='https://stackoverflow.com/users/19827435/lucia-aldana' target='_blank'>
+      <img src='https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white' />
+   </a>
+
 </p>
 <p align='center'>
   ¡Hola! Soy una desarrolladora frontend apasionada por crear experiencias web modernas, intuitivas y accesibles. 
