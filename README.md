@@ -58,17 +58,6 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
 </p>
 <p align='center'>
-   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=48&section=header&text=Últimos%20Artículos&fontSize=24&theme=cobalt"/>
-</p>
-<p align='center'>
-  <a href="https://www.huasi.dev/">
-   <img src="https://img.shields.io/badge/Visitar-Huasi%20blog%20-blue"/>
-  <a/>
-</p>
-<p align='center'>
-  Te invito a visitar el blog Huasi, donde comparto artículos, tutoriales y las últimas novedades del mundo del desarrollo frontend. No te pierdas la oportunidad de aprender algo nuevo y mejorar tus habilidades.
-</p>
-<p align='center'>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&theme=cobalt"/>
 </p>
 
