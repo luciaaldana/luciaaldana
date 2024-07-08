@@ -26,6 +26,7 @@
   Tuve la oportunidad de participar en diversos proyectos que me permitieron desarrollar nuevas habilidades y crecer profesionalmente. Durante estos proyectos, mejoré la experiencia de usuario, creé una librería de componentes reutilizables, y desarrollé aplicaciones tanto para usuarios como para profesionales, en versiones web y móvil. Además, implementé una aplicación móvil utilizando WebView y diseñé una página web optimizada con estrategias SEO. Para lograr estos objetivos, utilicé tecnologías como:
 </p>
 <p align='center'>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
@@ -51,9 +52,12 @@
   También estudio y practico con:
 </p>
 <p align='center'>
+   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
 </p>
