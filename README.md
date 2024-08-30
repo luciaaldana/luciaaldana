@@ -1,68 +1,59 @@
-<p align='center'>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lucia%20Aldana&fontSize=40&desc=Frontend%20Developer&descSize=20&theme=cobalt"/>
-</p>
-<p align='center'>
+# Lucia Aldana Castillo
+
+<p>
    <a href='https://www.linkedin.com/in/luciaaldanacastillo' target='_blank'>
       <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white' />
    </a>
    <a href='https://stackoverflow.com/users/19827435/lucia-aldana' target='_blank'>
       <img src='https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white' />
    </a>
+</p>
 
+## Desarrolladora Frontend
+
+Desarrolladora enfocada en la creación de aplicaciones web y móviles, utilizando React, React Native, y Next.js para diseñar interfaces responsivas y adaptadas a dispositivos móviles.
+
+## Experiencia
+- **Desarrollo Web y SEO**: Implementación de `estrategias de SEO` en una aplicación web con `Next.js` para mejorar la visibilidad en motores de búsqueda.
+- **Aplicación Mobile**: Creación de una aplicación móvil usando `WebView` en React Native, con publicación en `Apple Store` y `Play Store`.
+- **Desarrollo Web y Mobile**: Diseño y desarrollo de aplicaciones web y móviles para usuarios, profesionales y backoffice utilizando React, React Native, y otras tecnologías, con manejo de `documentos, chats y mapas`.
+- **Mejora de UX/UI**: Rediseño de interfaces gráficas para mejorar la experiencia del usuario y hacer los componentes más intuitivos, incluyendo pruebas con Testing Library.
+- **Gestión de Componentes**: Actualización, recuperación y documentación completa de una librería de componentes con `Storybook`.
+- **Formación y Capacitación**: Facilitación de `workshops` sobre Storybook para equipos de desarrollo y `mentoría` para el desarrollo de una librería de componentes.
+
+## Tecnologías
+
+<p>
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 </p>
-<p align='center'>
-  ¡Hola! Soy una desarrolladora frontend apasionada por crear experiencias web modernas, intuitivas y accesibles. 
+<p>
+   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+   <img src="https://img.shields.io/badge/CSS%20Modules-000000?style=flat&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
-<p align='center'>
-  Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como JavaScript, React, Next y TypeScript. Y en el desarrollo de aplicaciones para mobile, he trabajado con React Native y Typesccript.
-</p>
-<p align='center'>
-  Me esfuerzo por escribir código limpio y mantenible, y siempre estoy buscando nuevas formas de mejorar y aprender.
-</p>
-<p align='center'>
-   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=48&section=header&text=Stack&fontSize=24&theme=cobalt"/>
-</p>
-<p align='center'>
-  Tuve la oportunidad de participar en diversos proyectos que me permitieron desarrollar nuevas habilidades y crecer profesionalmente. Durante estos proyectos, mejoré la experiencia de usuario, creé una librería de componentes reutilizables, y desarrollé aplicaciones tanto para usuarios como para profesionales, en versiones web y móvil. Además, implementé una aplicación móvil utilizando WebView y diseñé una página web optimizada con estrategias SEO. Para lograr estos objetivos, utilicé tecnologías como:
-</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white"/>
+<p>
   <img src="https://img.shields.io/badge/I18Next-26A69A?style=flat&logo=i18next&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebView-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/>
 </p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS%20Modules-000000?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+<p>
+   <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white"/>
 </p>
-<p align='center'>
-  También estudio y practico con:
-</p>
-<p align='center'>
-   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-</p>
-<p align='center'>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&theme=cobalt"/>
+<p>
+   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 
 
