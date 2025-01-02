@@ -12,7 +12,7 @@
 Soy desarrolladora especializada en la creación de aplicaciones web y móviles, enfocada en brindar soluciones innovadoras que mejoren la experiencia del usuario y optimicen procesos. Mi experiencia con tecnologías como `React, React Native, Next.js y TypeScript` me permite diseñar y desarrollar interfaces responsivas, intuitivas y adaptadas a las necesidades de los usuarios.
 Además, trabajo bajo metodologías ágiles como `Scrum y Kanban`, utilizando herramientas como `Jira` para gestionar proyectos de manera eficiente y organizada.
 
-### Por qué soy el talento que tu equipo necesita:
+### Mi trayectoria en el mundo del desarrollo:
  - `Experiencia demostrable y resultados concretos`: He desarrollado y publicado aplicaciones móviles en `Apple Store` y `Play Store`, integrando funcionalidades complejas como manejo de documentos, chats y mapas en plataformas multiplataforma. En proyectos recientes, he trabajado con `scraping web` y la extracción de texto desde imágenes utilizando `OCR`, resolviendo desafíos técnicos para capturar y procesar información clave de manera eficiente. Además, he optimizado aplicaciones web implementando `estrategias de SEO`, logrando mejorar el posicionamiento en motores de búsqueda.
 
 - `Liderazgo y trabajo en equipo`: He liderado la documentación y actualización de librerías de componentes utilizando herramientas como `Storybook`, y he impartido talleres técnicos para equipos de desarrollo. Estas experiencias me han permitido mejorar los flujos de trabajo y la colaboración dentro de los equipos.
@@ -21,7 +21,7 @@ Además, trabajo bajo metodologías ágiles como `Scrum y Kanban`, utilizando he
 
 - `Dominio tecnológico`: Tengo un stack sólido que abarca desde frontend avanzado (React, Next.js, Tailwind CSS, Material UI) hasta integración con tecnologías backend como `Node.js`, `Express`, y bases de datos como `MongoDB`. Además, manejo herramientas como `Firebase`, sistemas de traducción como `i18Next`, y en todos mis proyectos recientes he utilizado `TypeScript` para garantizar código más robusto y mantenible. Mis proyectos se desarrollan bajo metodologías ágiles, donde el uso de `Scrum`, `Kanban` y herramientas como `Jira` han sido clave para alcanzar objetivos de forma ordenada y colaborativa.
 
-### Fortalezas que aporto a los proyectos:
+### Habilidades y experiencia que hacen la diferencia:
 - `Desarrollo frontend y multiplataforma`: Experiencia creando aplicaciones web y móviles robustas y escalables utilizando tecnologías como React, React Native y Next.js, siempre con un enfoque en el rendimiento y la experiencia del usuario.
 - `UX/UI y diseño atractivo`: Capacidad para trabajar con herramientas y frameworks como Styled Components, Tailwind CSS, y Material UI, asegurando que cada interfaz sea atractiva, funcional y orientada al usuario.
 - `Gestión ágil de proyectos`: Familiaridad con Scrum, Kanban, y herramientas como Jira, garantizando la entrega eficiente de proyectos, alineada a las expectativas del equipo y del cliente.
